@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "889250948836",
+    "firebase_url": "https://demoproject-c46d9.firebaseio.com",
+    "project_id": "demoproject-c46d9",
+    "storage_bucket": "demoproject-c46d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889250948836:android:d2b7b99e8e8ba316",
+        "android_client_info": {
+          "package_name": "com.demo.pawan.demo_ctech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889250948836-e7bj9uhbnbm8tm2grd59cl9h0a2b5dv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.pawan.demo_ctech",
+            "certificate_hash": "77807daa9bd07fed378ffe053440833beb346982"
+          }
+        },
+        {
+          "client_id": "889250948836-oeh7sasr03dfiut3p6uq4ueegkfco7r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBLH5zWcC2AMVjQhow0nAvxPM-H-ILisg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889250948836-oeh7sasr03dfiut3p6uq4ueegkfco7r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889250948836:android:08609aecaf941980",
+        "android_client_info": {
+          "package_name": "com.patidar.pawan.mapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889250948836-oeh7sasr03dfiut3p6uq4ueegkfco7r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBLH5zWcC2AMVjQhow0nAvxPM-H-ILisg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
